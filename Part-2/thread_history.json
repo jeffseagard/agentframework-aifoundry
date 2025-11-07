@@ -1,0 +1,149 @@
+{
+  "timestamp": "2025-11-07T12:45:09.635280",
+  "message_number": 4,
+  "thread_data": {
+    "type": "agent_thread_state",
+    "service_thread_id": null,
+    "chat_message_store_state": {
+      "type": "chat_message_store_state",
+      "messages": [
+        {
+          "type": "chat_message",
+          "role": {
+            "type": "role",
+            "value": "user"
+          },
+          "contents": [
+            {
+              "type": "text",
+              "annotations": null,
+              "text": "what color is the sky?"
+            }
+          ],
+          "author_name": null,
+          "message_id": null,
+          "additional_properties": {}
+        },
+        {
+          "type": "chat_message",
+          "role": {
+            "type": "role",
+            "value": "assistant"
+          },
+          "contents": [
+            {
+              "type": "text",
+              "annotations": null,
+              "text": "The sky appears blue during the day due to the scattering of sunlight by the Earth's atmosphere. This scattering causes shorter blue wavelengths of light to be more prominent. However, the sky can also appear in different colors during sunrise and sunset, often displaying shades of orange, pink, and purple. At night, the sky looks black or dark due to the absence of sunlight, revealing stars and other celestial bodies."
+            }
+          ],
+          "author_name": "MemoryBot",
+          "message_id": "chatcmpl-CZLjOJdhILSsliyBRMkpz0qatCotB",
+          "additional_properties": {}
+        },
+        {
+          "type": "chat_message",
+          "role": {
+            "type": "role",
+            "value": "user"
+          },
+          "contents": [
+            {
+              "type": "text",
+              "annotations": null,
+              "text": "My name is Jeff"
+            }
+          ],
+          "author_name": null,
+          "message_id": null,
+          "additional_properties": {}
+        },
+        {
+          "type": "chat_message",
+          "role": {
+            "type": "role",
+            "value": "assistant"
+          },
+          "contents": [
+            {
+              "type": "text",
+              "annotations": null,
+              "text": "Nice to meet you, Jeff! How can I assist you today?"
+            }
+          ],
+          "author_name": "MemoryBot",
+          "message_id": "chatcmpl-CZLjS20R0cuaDXm7K5Aap9abUkJ8A",
+          "additional_properties": {}
+        },
+        {
+          "type": "chat_message",
+          "role": {
+            "type": "role",
+            "value": "user"
+          },
+          "contents": [
+            {
+              "type": "text",
+              "annotations": null,
+              "text": "What is machine learning?"
+            }
+          ],
+          "author_name": null,
+          "message_id": null,
+          "additional_properties": {}
+        },
+        {
+          "type": "chat_message",
+          "role": {
+            "type": "role",
+            "value": "assistant"
+          },
+          "contents": [
+            {
+              "type": "text",
+              "annotations": null,
+              "text": "Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform tasks without explicit instructions. Instead of being programmed to perform a certain task, machines learn from data and improve their performance over time. \n\nIn machine learning, systems are trained on large amounts of data to recognize patterns and make predictions or decisions based on new, unseen data. There are several types of machine learning, including:\n\n1. **Supervised Learning:** The model is trained on labeled data, meaning the input comes with the correct output. It learns to map inputs to the desired output.\n\n2. **Unsupervised Learning:** The model is trained on data without labeled responses, aiming to find patterns or groupings within the data.\n\n3. **Reinforcement Learning:** The model learns by taking actions in an environment to maximize cumulative rewards, refining its strategies based on feedback.\n\nMachine learning is widely used in applications such as image and speech recognition, recommendation systems, fraud detection, and many more."
+            }
+          ],
+          "author_name": "MemoryBot",
+          "message_id": "chatcmpl-CZLjanvnET78le6pUJ6bh04iOOLN1",
+          "additional_properties": {}
+        },
+        {
+          "type": "chat_message",
+          "role": {
+            "type": "role",
+            "value": "user"
+          },
+          "contents": [
+            {
+              "type": "text",
+              "annotations": null,
+              "text": "What's my name?"
+            }
+          ],
+          "author_name": null,
+          "message_id": null,
+          "additional_properties": {}
+        },
+        {
+          "type": "chat_message",
+          "role": {
+            "type": "role",
+            "value": "assistant"
+          },
+          "contents": [
+            {
+              "type": "text",
+              "annotations": null,
+              "text": "Your name is Jeff. How can I assist you further, Jeff?"
+            }
+          ],
+          "author_name": "MemoryBot",
+          "message_id": "chatcmpl-CZLkM64uHchtGiCgZ7m1lYEGj777D",
+          "additional_properties": {}
+        }
+      ]
+    }
+  }
+}
